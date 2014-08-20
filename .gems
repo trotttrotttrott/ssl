@@ -1,0 +1,4 @@
+chef -v 11.14.6
+berkshelf -v 3.1.5
+test-kitchen -v 1.2.1
+kitchen-vagrant -v 0.15.0
