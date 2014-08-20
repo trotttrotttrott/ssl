@@ -1,0 +1,11 @@
+DEPENDENCIES
+  ssl
+    path: .
+    metadata: true
+
+GRAPH
+  build-essential (2.0.6)
+  paths (0.3.0)
+  ssl (0.2.2)
+    build-essential (>= 0.0.0)
+    paths (>= 0.0.0)
